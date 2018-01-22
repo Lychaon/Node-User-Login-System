@@ -1,0 +1,19 @@
+{
+  "name": "node-user-login-system",
+  "version": "1.0.0",
+  "description": "Simple Nodejs MongoDB and Passport Authentication app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lychaon/Node-User-Login-System.git"
+  },
+  "author": "Wembley Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lychaon/Node-User-Login-System/issues"
+  },
+  "homepage": "https://github.com/Lychaon/Node-User-Login-System#readme"
+}
